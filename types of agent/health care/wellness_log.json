@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2025-11-24 17:36:40",
+        "mood_summary": "Stressed about exam",
+        "objectives": [
+            "Read a novel"
+        ],
+        "agent_summary_sentence": "Check-in logged successfully on 2025-11-24."
+    },
+    {
+        "date": "2025-11-24 17:37:45",
+        "mood_summary": "Feeling much better",
+        "objectives": [
+            "Finish the second chapter of the novel"
+        ],
+        "agent_summary_sentence": "Check-in logged successfully on 2025-11-24."
+    }
+]
