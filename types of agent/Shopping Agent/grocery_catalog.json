@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "fresh_paneer_block",
+    "name": "Fresh Paneer Block (500g)",
+    "price": 5.92,
+    "category": "Dairy"
+  },
+  {
+    "id": "plain_curd",
+    "name": "Plain Curd (Dahi) (1kg)",
+    "price": 3.91,
+    "category": "Dairy"
+  },
+  {
+    "id": "pure_cow_ghee",
+    "name": "Pure Cow Ghee (500ml)",
+    "price": 5.09,
+    "category": "Dairy"
+  },
+  {
+    "id": "salted_butter",
+    "name": "Salted Butter (200g)",
+    "price": 3.38,
+    "category": "Dairy"
+  },
+  {
+    "id": "whole_milk",
+    "name": "Whole Milk (1L Tetra Pack)",
+    "price": 4.8,
+    "category": "Dairy"
+  },
+  {
+    "id": "malai_fresh_cream",
+    "name": "Malai Fresh Cream (200ml)",
+    "price": 6.81,
+    "category": "Dairy"
+  },
+  {
+    "id": "buttermilk",
+    "name": "Buttermilk (Chaas) (500ml)",
+    "price": 2.15,
+    "category": "Dairy"
+  },
+  {
+    "id": "mawa",
+    "name": "Mawa (Khoya) (200g)",
+    "price": 3.19,
+    "category": "Dairy"
+  },
+  {
+    "id": "flavored_lassi",
+    "name": "Flavored Lassi (Mango) (200ml)",
+    "price": 2.82,
+    "category": "Dairy"
+  },
+  {
+    "id": "sweetened_condensed_milk",
+    "name": "Sweetened Condensed Milk",
+    "price": 5.07,
+    "category": "Dairy"
+  },
+  {
+    "id": "mozzarella_cheese_block",
+    "name": "Mozzarella Cheese Block (200g)",
+    "price": 5.76,
+    "category": "Dairy"
+  },
+  {
+    "id": "processed_cheese_slices",
+    "name": "Processed Cheese Slices (10pk)",
+    "price": 3.48,
+    "category": "Dairy"
+  },
+  {
+    "id": "yogurt_small_cup",
+    "name": "Yogurt (Dahi) Small Cup",
+    "price": 1.7,
+    "category": "Dairy"
+  },
+  {
+    "id": "pudding_mix_base",
+    "name": "Pudding Mix (Kheer) Base",
+    "price": 6.89,
+    "category": "Dairy"
+  },
+  {
+    "id": "cottage_cheese",
+    "name": "Cottage Cheese (Ricotta Style)",
+    "price": 3.14,
+    "category": "Dairy"
+  },
+  {
+    "id": "skim_milk",
+    "name": "Skim Milk (1L Tetra Pack)",
+    "price": 4.09,
+    "category": "Dairy"
+  },
+  {
+    "id": "frozen_paneer_cubes",
+    "name": "Frozen Paneer Cubes (200g)",
+    "price": 5.4,
+    "category": "Dairy"
+  },
+  {
+    "id": "a2_cow_milk",
+    "name": "A2 Cow Milk (1L)",
+    "price": 4.67,
+    "category": "Dairy"
+  },
+  {
+    "id": "shrikhand",
+    "name": "Shrikhand (Cardamom Flavour)",
+    "price": 4.02,
+    "category": "Dairy"
+  },
+  {
+    "id": "rasgulla_tin",
+    "name": "Rasgulla Tin (Small)",
+    "price": 3.52,
+    "category": "Dairy"
+  },
+  {
+    "id": "basmati_rice",
+    "name": "Basmati Rice (Aged) (2kg)",
+    "price": 8.05,
+    "category": "Pantry"
+  },
+  {
+    "id": "sona_masuri_rice",
+    "name": "Sona Masuri Rice (2kg)",
+    "price": 6.72,
+    "category": "Pantry"
+  },
+  {
+    "id": "idli_rice",
+    "name": "Idli Rice (1kg)",
+    "price": 4.96,
+    "category": "Pantry"
+  },
+  {
+    "id": "poha",
+    "name": "Poha (Flattened Rice) (500g)",
+    "price": 2.45,
+    "category": "Pantry"
+  },
+  {
+    "id": "murmura",
+    "name": "Murmura (Puffed Rice) (250g)",
+    "price": 1.77,
+    "category": "Pantry"
+  },
+  {
+    "id": "brown_basmati_rice",
+    "name": "Brown Basmati Rice (1kg)",
+    "price": 5.51,
+    "category": "Pantry"
+  },
+  {
+    "id": "wheat_dalia",
+    "name": "Wheat Dalia (Broken Wheat) (500g)",
+    "price": 4.79,
+    "category": "Pantry"
+  },
+  {
+    "id": "sabudana",
+    "name": "Sabudana (Sago) (500g)",
+    "price": 3.86,
+    "category": "Pantry"
+  },
+  {
+    "id": "white_rice",
+    "name": "White Rice (Everyday) (2kg)",
+    "price": 7.42,
+    "category": "Pantry"
+  },
+  {
+    "id": "biryani_rice",
+    "name": "Biryani Rice (Long Grain) (1kg)",
+    "price": 7.84,
+    "category": "Pantry"
+  },
+  {
+    "id": "toor_arhar_dal",
+    "name": "Toor/Arhar Dal (1kg)",
+    "price": 9.47,
+    "category": "Pantry"
+  },
+  {
+    "id": "chana_dal",
+    "name": "Chana Dal (1kg)",
+    "price": 8.16,
+    "category": "Pantry"
+  },
+  {
+    "id": "masoor_dal",
+    "name": "Masoor Dal (Red Lentil) (500g)",
+    "price": 4.92,
+    "category": "Pantry"
+  },
+  {
+    "id": "moong_dal_split",
+    "name": "Moong Dal Split (500g)",
+    "price": 5.05,
+    "category": "Pantry"
+  },
+  {
+    "id": "urad_dal_split",
+    "name": "Urad Dal Split (500g)",
+    "price": 5.09,
+    "category": "Pantry"
+  },
+  {
+    "id": "rajma",
+    "name": "Rajma (Kidney Beans) (500g)",
+    "price": 5.73,
+    "category": "Pantry"
+  },
+  {
+    "id": "kabuli_chana",
+    "name": "Kabuli Chana (Chickpeas) (500g)",
+    "price": 4.67,
+    "category": "Pantry"
+  },
+  {
+    "id": "whole_moong",
+    "name": "Whole Moong (Green Gram) (500g)",
+    "price": 3.73,
+    "category": "Pantry"
+  },
+  {
+    "id": "lobia",
+    "name": "Lobia (Black-Eyed Peas) (500g)",
+    "price": 3.99,
+    "category": "Pantry"
+  },
+  {
+    "id": "whole_masoor",
+    "name": "Whole Masoor (Black Lentil) (500g)",
+    "price": 5.39,
+    "category": "Pantry"
+  },
+  {
+    "id": "atta",
+    "name": "Atta (Whole Wheat Flour) (5kg)",
+    "price": 8.04,
+    "category": "Pantry"
+  },
+  {
+    "id": "besan",
+    "name": "Besan (Gram Flour) (1kg)",
+    "price": 7.74,
+    "category": "Pantry"
+  },
+  {
+    "id": "maida",
+    "name": "Maida (All-Purpose Flour) (1kg)",
+    "price": 1.77,
+    "category": "Pantry"
+  },
+  {
+    "id": "ragi_flour",
+    "name": "Ragi Flour (Finger Millet) (500g)",
+    "price": 3.79,
+    "category": "Pantry"
+  },
+  {
+    "id": "rice_flour",
+    "name": "Rice Flour (Chawal Atta) (500g)",
+    "price": 2.2,
+    "category": "Pantry"
+  },
+  {
+    "id": "sooji_rava",
+    "name": "Sooji/Rava (Semolina) (500g)",
+    "price": 4.19,
+    "category": "Pantry"
+  },
+  {
+    "id": "bajra_flour",
+    "name": "Bajra Flour (Pearl Millet) (500g)",
+    "price": 3.01,
+    "category": "Pantry"
+  },
+  {
+    "id": "corn_flour",
+    "name": "Corn Flour (200g)",
+    "price": 3.92,
+    "category": "Pantry"
+  },
+  {
+    "id": "jowar_flour",
+    "name": "Jowar Flour (Sorghum Millet) (500g)",
+    "price": 4.9,
+    "category": "Pantry"
+  },
+  {
+    "id": "multigrain_atta",
+    "name": "Multigrain Atta (1kg)",
+    "price": 5.89,
+    "category": "Pantry"
+  },
+  {
+    "id": "turmeric_powder",
+    "name": "Turmeric Powder (Haldi) (100g)",
+    "price": 1.71,
+    "category": "Pantry"
+  },
+  {
+    "id": "red_chilli_powder",
+    "name": "Red Chilli Powder (Medium) (100g)",
+    "price": 2.28,
+    "category": "Pantry"
+  },
+  {
+    "id": "coriander_powder",
+    "name": "Coriander Powder (Dhaniya) (100g)",
+    "price": 3.02,
+    "category": "Pantry"
+  },
+  {
+    "id": "cumin_powder",
+    "name": "Cumin Powder (Jeera) (100g)",
+    "price": 4.86,
+    "category": "Pantry"
+  },
+  {
+    "id": "garam_masala_powder",
+    "name": "Garam Masala Powder (100g)",
+    "price": 7.39,
+    "category": "Pantry"
+  },
+  {
+    "id": "chaat_masala_powder",
+    "name": "Chaat Masala Powder (100g)",
+    "price": 3.25,
+    "category": "Pantry"
+  },
+  {
+    "id": "sambar_powder",
+    "name": "Sambar Powder (100g)",
+    "price": 4.45,
+    "category": "Pantry"
+  },
+  {
+    "id": "tea_masala_powder",
+    "name": "Tea Masala Powder (50g)",
+    "price": 6.88,
+    "category": "Pantry"
+  },
+  {
+    "id": "black_pepper_powder",
+    "name": "Black Pepper Powder (50g)",
+    "price": 5.08,
+    "category": "Pantry"
+  },
+  {
+    "id": "amchur",
+    "name": "Amchur (Dry Mango Powder) (50g)",
+    "price": 2.45,
+    "category": "Pantry"
+  },
+  {
+    "id": "whole_cumin_seeds",
+    "name": "Whole Cumin Seeds (Jeera) (100g)",
+    "price": 3.86,
+    "category": "Pantry"
+  },
+  {
+    "id": "whole_mustard_seeds",
+    "name": "Whole Mustard Seeds (100g)",
+    "price": 1.95,
+    "category": "Pantry"
+  },
+  {
+    "id": "whole_green_cardamom",
+    "name": "Whole Green Cardamom (50g)",
+    "price": 8.78,
+    "category": "Pantry"
+  },
+  {
+    "id": "cinnamon_sticks",
+    "name": "Cinnamon Sticks (50g)",
+    "price": 6.64,
+    "category": "Pantry"
+  },
+  {
+    "id": "cloves",
+    "name": "Cloves (Laung) (25g)",
+    "price": 6.36,
+    "category": "Pantry"
+  },
+  {
+    "id": "bay_leaves",
+    "name": "Bay Leaves (Tej Patta) (20g)",
+    "price": 1.83,
+    "category": "Pantry"
+  },
+  {
+    "id": "asafoetida_powder",
+    "name": "Asafoetida (Hing) Powder (50g)",
+    "price": 7.15,
+    "category": "Pantry"
+  },
+  {
+    "id": "fennel_seeds",
+    "name": "Fennel Seeds (Saunf) (100g)",
+    "price": 2.05,
+    "category": "Pantry"
+  },
+  {
+    "id": "kasuri_methi",
+    "name": "Kasuri Methi (Dried Fenugreek)",
+    "price": 4.09,
+    "category": "Pantry"
+  },
+  {
+    "id": "black_salt",
+    "name": "Black Salt (Kala Namak) (200g)",
+    "price": 1.25,
+    "category": "Pantry"
+  },
+  {
+    "id": "refined_sunflower_oil",
+    "name": "Refined Sunflower Oil (1L)",
+    "price": 6.94,
+    "category": "Pantry"
+  },
+  {
+    "id": "mustard_oil",
+    "name": "Mustard Oil (1L)",
+    "price": 5.21,
+    "category": "Pantry"
+  },
+  {
+    "id": "groundnut_oil",
+    "name": "Groundnut Oil (500ml)",
+    "price": 4.54,
+    "category": "Pantry"
+  },
+  {
+    "id": "coconut_oil",
+    "name": "Coconut Oil (500ml)",
+    "price": 5.48,
+    "category": "Pantry"
+  },
+  {
+    "id": "virgin_olive_oil",
+    "name": "Virgin Olive Oil (250ml)",
+    "price": 5.15,
+    "category": "Pantry"
+  },
+  {
+    "id": "jaggery_block",
+    "name": "Jaggery (Gud) Block (500g)",
+    "price": 3.73,
+    "category": "Pantry"
+  },
+  {
+    "id": "white_sugar",
+    "name": "White Sugar (1kg)",
+    "price": 3.48,
+    "category": "Pantry"
+  },
+  {
+    "id": "iodized_salt",
+    "name": "Iodized Salt (1kg)",
+    "price": 1.15,
+    "category": "Pantry"
+  },
+  {
+    "id": "mango_pickle",
+    "name": "Mango Pickle (Sweet & Spicy) (300g)",
+    "price": 4.52,
+    "category": "Pantry"
+  },
+  {
+    "id": "lime_pickle",
+    "name": "Lime Pickle (Spicy) (300g)",
+    "price": 5.6,
+    "category": "Pantry"
+  },
+  {
+    "id": "mixed_vegetable_pickle",
+    "name": "Mixed Vegetable Pickle (300g)",
+    "price": 4.41,
+    "category": "Pantry"
+  },
+  {
+    "id": "tomato_ketchup",
+    "name": "Tomato Ketchup (Large Bottle)",
+    "price": 3.32,
+    "category": "Pantry"
+  },
+  {
+    "id": "green_chili_sauce",
+    "name": "Green Chili Sauce (200ml)",
+    "price": 2.45,
+    "category": "Pantry"
+  },
+  {
+    "id": "soy_sauce",
+    "name": "Soy Sauce (200ml)",
+    "price": 1.95,
+    "category": "Pantry"
+  },
+  {
+    "id": "tea_leaves",
+    "name": "Tea Leaves (Black Tea) (250g)",
+    "price": 4.79,
+    "category": "Pantry"
+  },
+  {
+    "id": "instant_coffee_powder",
+    "name": "Instant Coffee Powder (100g)",
+    "price": 6.81,
+    "category": "Pantry"
+  },
+  {
+    "id": "drinking_chocolate_powder",
+    "name": "Drinking Chocolate Powder (200g)",
+    "price": 4.09,
+    "category": "Pantry"
+  },
+  {
+    "id": "cashew_nuts",
+    "name": "Cashew Nuts (Kaju) (100g)",
+    "price": 7.42,
+    "category": "Pantry"
+  },
+  {
+    "id": "almonds",
+    "name": "Almonds (Badam) (100g)",
+    "price": 7.95,
+    "category": "Pantry"
+  },
+  {
+    "id": "raisins",
+    "name": "Raisins (Kishmish) (100g)",
+    "price": 4.07,
+    "category": "Pantry"
+  },
+  {
+    "id": "aloo_bhujia",
+    "name": "Aloo Bhujia (200g)",
+    "price": 1.77,
+    "category": "Snacks"
+  },
+  {
+    "id": "moong_dal_namkeen",
+    "name": "Moong Dal Namkeen (150g)",
+    "price": 4.14,
+    "category": "Snacks"
+  },
+  {
+    "id": "khatta_meetha_mix",
+    "name": "Khatta Meetha Mix (200g)",
+    "price": 3.36,
+    "category": "Snacks"
+  },
+  {
+    "id": "chakli_murukku",
+    "name": "Chakli/Murukku (200g)",
+    "price": 2.51,
+    "category": "Snacks"
+  },
+  {
+    "id": "bhel_puri_mix",
+    "name": "Bhel Puri Mix",
+    "price": 2.37,
+    "category": "Snacks"
+  },
+  {
+    "id": "pani_puri_golgappa_kit",
+    "name": "Pani Puri/Golgappa Kit",
+    "price": 3.82,
+    "category": "Snacks"
+  },
+  {
+    "id": "masala_peanuts",
+    "name": "Masala Peanuts (200g)",
+    "price": 4.29,
+    "category": "Snacks"
+  },
+  {
+    "id": "banana_chips",
+    "name": "Banana Chips (Salted) (150g)",
+    "price": 4.41,
+    "category": "Snacks"
+  },
+  {
+    "id": "samosa",
+    "name": "Samosa (Frozen, 6pc)",
+    "price": 4.06,
+    "category": "Snacks"
+  },
+  {
+    "id": "kachori",
+    "name": "Kachori (Frozen, 4pc)",
+    "price": 2.92,
+    "category": "Snacks"
+  },
+  {
+    "id": "parle_g_biscuits",
+    "name": "Parle-G Biscuits (Small)",
+    "price": 1.05,
+    "category": "Snacks"
+  },
+  {
+    "id": "good_day_butter_cookies",
+    "name": "Good Day Butter Cookies",
+    "price": 2.76,
+    "category": "Snacks"
+  },
+  {
+    "id": "marie_gold_biscuits",
+    "name": "Marie Gold Biscuits",
+    "price": 3.41,
+    "category": "Snacks"
+  },
+  {
+    "id": "cream_cracker_biscuits",
+    "name": "Cream Cracker Biscuits",
+    "price": 4.89,
+    "category": "Snacks"
+  },
+  {
+    "id": "dark_chocolate_slab",
+    "name": "Dark Chocolate Slab (Indian)",
+    "price": 4.54,
+    "category": "Snacks"
+  },
+  {
+    "id": "besan_ladoo",
+    "name": "Besan Ladoo (4pc Pack)",
+    "price": 3.51,
+    "category": "Snacks"
+  },
+  {
+    "id": "gulab_jamun",
+    "name": "Gulab Jamun (Canned, 5pc)",
+    "price": 4.2,
+    "category": "Snacks"
+  },
+  {
+    "id": "soan_papdi_box",
+    "name": "Soan Papdi Box (250g)",
+    "price": 4.69,
+    "category": "Snacks"
+  },
+  {
+    "id": "dry_fruit_chikki",
+    "name": "Dry Fruit Chikki (Peanut)",
+    "price": 2.91,
+    "category": "Snacks"
+  },
+  {
+    "id": "popcorn_kernels",
+    "name": "Popcorn Kernels (500g)",
+    "price": 3.19,
+    "category": "Snacks"
+  },
+  {
+    "id": "instant_noodles",
+    "name": "Instant Noodles (Masala Flavor)",
+    "price": 2.62,
+    "category": "Snacks"
+  },
+  {
+    "id": "aata_noodles",
+    "name": "Aata Noodles (Chowmein)",
+    "price": 2.14,
+    "category": "Snacks"
+  },
+  {
+    "id": "fryums_papad_for_frying",
+    "name": "Fryums/Papad for Frying (200g)",
+    "price": 1.5,
+    "category": "Snacks"
+  },
+  {
+    "id": "roasted_chana",
+    "name": "Roasted Chana (Bhuna Chana)",
+    "price": 3.09,
+    "category": "Snacks"
+  },
+  {
+    "id": "mixture",
+    "name": "Mixture (South Indian Style)",
+    "price": 2.87,
+    "category": "Snacks"
+  },
+  {
+    "id": "namak_pare",
+    "name": "Namak Pare (Salty Sticks)",
+    "price": 3.8,
+    "category": "Snacks"
+  },
+  {
+    "id": "shakar_pare",
+    "name": "Shakar Pare (Sweet Snacks)",
+    "price": 3.55,
+    "category": "Snacks"
+  },
+  {
+    "id": "khakhra",
+    "name": "Khakhra (Methi) (10pc)",
+    "price": 3.01,
+    "category": "Snacks"
+  },
+  {
+    "id": "rusks",
+    "name": "Rusks (Plain/Elaichi)",
+    "price": 2.15,
+    "category": "Snacks"
+  },
+  {
+    "id": "chocolate_bar",
+    "name": "Chocolate Bar (Milky)",
+    "price": 1.41,
+    "category": "Snacks"
+  },
+  {
+    "id": "assorted_indian_candies",
+    "name": "Assorted Indian Candies (200g)",
+    "price": 3.6,
+    "category": "Snacks"
+  },
+  {
+    "id": "kaju_katli",
+    "name": "Kaju Katli (2pc Pack)",
+    "price": 4.95,
+    "category": "Snacks"
+  },
+  {
+    "id": "frozen_veg_spring_rolls",
+    "name": "Frozen Veg Spring Rolls (10pc)",
+    "price": 4.17,
+    "category": "Snacks"
+  },
+  {
+    "id": "papad",
+    "name": "Papad (Rice/Urad) (20pc)",
+    "price": 2.58,
+    "category": "Snacks"
+  },
+  {
+    "id": "jalebi_mix",
+    "name": "Jalebi Mix (Instant)",
+    "price": 3.65,
+    "category": "Snacks"
+  },
+  {
+    "id": "falooda_mix",
+    "name": "Falooda Mix (Dessert)",
+    "price": 3.32,
+    "category": "Snacks"
+  },
+  {
+    "id": "sweet_corn",
+    "name": "Sweet Corn (Frozen)",
+    "price": 1.34,
+    "category": "Snacks"
+  },
+  {
+    "id": "potato_wafers",
+    "name": "Potato Wafers (Indian Masala)",
+    "price": 3.42,
+    "category": "Snacks"
+  },
+  {
+    "id": "whole_wheat_biscuits",
+    "name": "Whole Wheat Biscuits (Digestive)",
+    "price": 4.29,
+    "category": "Snacks"
+  },
+  {
+    "id": "coconut_water",
+    "name": "Coconut Water (Tetra Pack)",
+    "price": 1.49,
+    "category": "Snacks"
+  },
+  {
+    "id": "red_onion",
+    "name": "Red Onion (1kg)",
+    "price": 1.95,
+    "category": "Produce"
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato (Desi) (1kg)",
+    "price": 3.73,
+    "category": "Produce"
+  },
+  {
+    "id": "potato",
+    "name": "Potato (Aloo) (1kg)",
+    "price": 2.21,
+    "category": "Produce"
+  },
+  {
+    "id": "fresh_ginger",
+    "name": "Fresh Ginger (200g)",
+    "price": 3.99,
+    "category": "Produce"
+  },
+  {
+    "id": "garlic",
+    "name": "Fresh Garlic (200g)",
+    "price": 2.44,
+    "category": "Produce"
+  },
+  {
+    "id": "green_chillies",
+    "name": "Green Chillies (100g)",
+    "price": 3.19,
+    "category": "Produce"
+  },
+  {
+    "id": "okra",
+    "name": "Okra (Bhindi) (500g)",
+    "price": 3.91,
+    "category": "Produce"
+  },
+  {
+    "id": "cauliflower",
+    "name": "Cauliflower (Gobi) (1pc)",
+    "price": 1.54,
+    "category": "Produce"
+  },
+  {
+    "id": "indian_eggplant",
+    "name": "Indian Eggplant (Baingan) (500g)",
+    "price": 2.91,
+    "category": "Produce"
+  },
+  {
+    "id": "spinach_bunch",
+    "name": "Spinach (Palak) Bunch",
+    "price": 1.84,
+    "category": "Produce"
+  },
+  {
+    "id": "fenugreek_leaves_bunch",
+    "name": "Fenugreek Leaves (Methi) Bunch",
+    "price": 3.05,
+    "category": "Produce"
+  },
+  {
+    "id": "coriander_leaves_bunch",
+    "name": "Coriander Leaves Bunch",
+    "price": 3.6,
+    "category": "Produce"
+  },
+  {
+    "id": "bottle_gourd",
+    "name": "Bottle Gourd (Lauki) (1pc)",
+    "price": 1.45,
+    "category": "Produce"
+  },
+  {
+    "id": "ridge_gourd",
+    "name": "Ridge Gourd (Torai) (500g)",
+    "price": 2.76,
+    "category": "Produce"
+  },
+  {
+    "id": "carrot",
+    "name": "Carrot (Gajar) (500g)",
+    "price": 3.48,
+    "category": "Produce"
+  },
+  {
+    "id": "bell_pepper",
+    "name": "Bell Pepper (Shimla Mirch) (3pc)",
+    "price": 2.51,
+    "category": "Produce"
+  },
+  {
+    "id": "curry_leaves_packet",
+    "name": "Curry Leaves Packet",
+    "price": 3.25,
+    "category": "Produce"
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon (Nimbu) (6pc)",
+    "price": 1.25,
+    "category": "Produce"
+  },
+  {
+    "id": "taro_root",
+    "name": "Taro Root (Arbi) (500g)",
+    "price": 1.15,
+    "category": "Produce"
+  },
+  {
+    "id": "drumsticks",
+    "name": "Drumsticks (500g)",
+    "price": 3.59,
+    "category": "Produce"
+  },
+  {
+    "id": "ready_to_eat_dal_makhani",
+    "name": "Ready-to-Eat Dal Makhani (Pouch)",
+    "price": 4.67,
+    "category": "Premade Food"
+  },
+  {
+    "id": "ready_to_eat_palak_paneer",
+    "name": "Ready-to-Eat Palak Paneer",
+    "price": 5.28,
+    "category": "Premade Food"
+  },
+  {
+    "id": "ready_to_eat_chana_masala",
+    "name": "Ready-to-Eat Chana Masala (Pouch)",
+    "price": 4.7,
+    "category": "Premade Food"
+  },
+  {
+    "id": "instant_idli_mix",
+    "name": "Instant Idli Mix (500g)",
+    "price": 6.81,
+    "category": "Premade Food"
+  },
+  {
+    "id": "instant_dosa_mix",
+    "name": "Instant Dosa Mix (500g)",
+    "price": 6.6,
+    "category": "Premade Food"
+  },
+  {
+    "id": "frozen_aloo_paratha",
+    "name": "Frozen Aloo Paratha (4pc)",
+    "price": 7.37,
+    "category": "Premade Food"
+  },
+  {
+    "id": "frozen_paneer_paratha",
+    "name": "Frozen Paneer Paratha (4pc)",
+    "price": 3.65,
+    "category": "Premade Food"
+  },
+  {
+    "id": "fresh_idli_dosa_batter",
+    "name": "Fresh Idli/Dosa Batter (1kg)",
+    "price": 7.54,
+    "category": "Premade Food"
+  },
+  {
+    "id": "upma_instant_mix",
+    "name": "Upma Instant Mix (200g)",
+    "price": 5.76,
+    "category": "Premade Food"
+  },
+  {
+    "id": "poha_instant_mix",
+    "name": "Poha Instant Mix (200g)",
+    "price": 4.25,
+    "category": "Premade Food"
+  },
+  {
+    "id": "ginger_garlic_paste",
+    "name": "Ginger Garlic Paste (200g Jar)",
+    "price": 6.88,
+    "category": "Premade Food"
+  },
+  {
+    "id": "tamarind_paste",
+    "name": "Tamarind Paste (200g Jar)",
+    "price": 7.15,
+    "category": "Premade Food"
+  },
+  {
+    "id": "readymade_sambar_concentrate",
+    "name": "Readymade Sambar Concentrate (200g)",
+    "price": 7.08,
+    "category": "Premade Food"
+  },
+  {
+    "id": "aloo_tikki",
+    "name": "Aloo Tikki (Frozen, 6pc)",
+    "price": 6.64,
+    "category": "Premade Food"
+  },
+  {
+    "id": "vegetable_biryani_ready_mix",
+    "name": "Vegetable Biryani Ready Mix",
+    "price": 7.82,
+    "category": "Premade Food"
+  },
+  {
+    "id": "pav_bhaji_masala_paste",
+    "name": "Pav Bhaji Masala Paste",
+    "price": 6.33,
+    "category": "Premade Food"
+  },
+  {
+    "id": "red_kidney_beans",
+    "name": "Red Kidney Beans (Canned/Cooked)",
+    "price": 6.81,
+    "category": "Premade Food"
+  },
+  {
+    "id": "chickpeas",
+    "name": "Chickpeas (Canned/Cooked)",
+    "price": 8.21,
+    "category": "Premade Food"
+  },
+  {
+    "id": "frozen_mixed_vegetables",
+    "name": "Frozen Mixed Vegetables (500g)",
+    "price": 8.45,
+    "category": "Premade Food"
+  },
+  {
+    "id": "instant_pongal_mix",
+    "name": "Instant Pongal Mix (Sweet)",
+    "price": 6.74,
+    "category": "Premade Food"
+  }
+]
