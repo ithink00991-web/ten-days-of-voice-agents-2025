@@ -1,0 +1,31 @@
+{
+  "character": {
+    "name": "dark",
+    "class": "Adventurer",
+    "hp": 20,
+    "max_hp": 20,
+    "inventory": [
+      "gold coin",
+      "Rusty sword",
+      "Water bottle"
+    ],
+    "status": "Healthy"
+  },
+  "location": {
+    "name": "The Crossroads",
+    "description": "You stand at a dusty crossroads. To the north lies the Dark Forest, to the east the Village of Oakhaven.",
+    "known_paths": [
+      "North",
+      "East",
+      "South"
+    ]
+  },
+  "events": [],
+  "quests": [
+    {
+      "name": "Find the Lost Relic",
+      "status": "Active",
+      "description": "Rumors say a powerful relic is hidden in the Dark Forest."
+    }
+  ]
+}
